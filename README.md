@@ -12,7 +12,7 @@ Notes
 3. The visualization package is Bokeh [https://bokeh.org/].
 
 # How to run 
-python summarizeCNVsFromCODEX2.py frac_files.txt results/CODEX2/CODEX2_combined/ dvgfile kitname gencodefile sampleSourceFiles.txt combined_sampname
+> python summarizeCNVsFromCODEX2.py frac_files.txt results/CODEX2/CODEX2_combined/ dvgfile kitname gencodefile sampleSourceFiles.txt combined_sampname
 
 where,
 * frac_files.txt contains the list of result files (files endining with \_frac.txt) from CODEX2
