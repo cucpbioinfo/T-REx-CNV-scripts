@@ -6,7 +6,7 @@ This python script extracts, summarizes, and visualize the CNVs called by CODEX2
 * Top novel genes 
 * Tables such as T-REx overlapped with DGV, T-REx non-overlapped with DGV, etc. 
 
-Notes
+## Notes
 1. A CNV is annotated as known if it is 50% overlapping with a record in DGV [http://dgv.tcag.ca/dgv/app/home].
 2. A CNV is annotated with a gene name if it is 50% overlapping with a record in GENCODE [https://www.gencodegenes.org/human/].
 3. The visualization package is Bokeh [https://bokeh.org/].
