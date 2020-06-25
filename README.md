@@ -1,5 +1,5 @@
 # T-REx-CNV-scripts
-This python script extracts, summarizes, and visualize the CNVs called by CODEX2 [https://github.com/yuchaojiang/CODEX2] into 
+This python3 script extracts, summarizes, and visualize the CNVs called by CODEX2 [https://github.com/yuchaojiang/CODEX2] into 
 * Distribution of CNV sizes 
 * Distribution of number of CNVs found accross samples
 * Top known genes from overlapped with called CNVs
