@@ -1,9 +1,9 @@
 # T-REx-CNV-scripts
 This python script extracts, summarizes, and visualize the CNVs called by CODEX2 [https://github.com/yuchaojiang/CODEX2] into 
-*Distribution of CNV sizes 
-*Distribution of number of CNVs found accross samples
-*Top known genes from overlapped with called CNVs
-*Top novel genes 
+* Distribution of CNV sizes 
+* Distribution of number of CNVs found accross samples
+* Top known genes from overlapped with called CNVs
+* Top novel genes 
 
 Notes
 1. A CNV is annotated as known if it is 50% overlapping with a record in DGV [http://dgv.tcag.ca/dgv/app/home].
